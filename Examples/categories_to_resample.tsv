@@ -1,0 +1,6 @@
+categories	number_to_sample
+[0-10]	9
+[10-20]	2
+[20-30]	1
+[30-40]	9
+Others	10
